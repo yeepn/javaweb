@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webproject-06-jsp:war exploded">
+    <output-path>$PROJECT_DIR$/webproject-06-jsp/webproject-06-jsp/target/webproject-06-jsp</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>webproject-06-jsp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webproject-06-jsp" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/webproject-06-jsp/webproject-06-jsp/target/webproject-06-jsp/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="webproject-06-jsp/web/Web" />
+    </root>
+  </artifact>
+</component>

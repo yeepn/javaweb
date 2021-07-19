@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-02-autowriter" />
+        <module name="Spring-05-and" />
+        <module name="webproject-05-sendRedirect" />
+        <module name="Spring-04-proxy" />
+        <module name="MyBatis-02-test" />
+        <module name="checkmarks" />
+        <module name="Spring-03-annotation" />
+        <module name="spring-06-and" />
+        <module name="webproject-06-jsp" />
+        <module name="SSM" />
+        <module name="webproject-04-validcode" />
+        <module name="SSM-02-test" />
+        <module name="score" />
+        <module name="webproject-08-jdbc" />
+        <module name="MyBatis-01-test" />
+        <module name="webproject-02" />
+        <module name="webproject-03" />
+        <module name="SSM-01" />
+        <module name="Spring-01-test" />
+        <module name="webproject-07-filter" />
+        <module name="SpringMVC-01-test" />
+        <module name="spring-07-and" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="checkmarks" target="8" />
+      <module name="MyBatis-01-test" target="1.8" />
+      <module name="MyBatis-02-test" target="1.8" />
+      <module name="score" target="8" />
+      <module name="Spring-01-test" target="1.8" />
+      <module name="Spring-02-autowriter" target="1.8" />
+      <module name="Spring-03-annotation" target="1.8" />
+      <module name="Spring-04-proxy" target="15" />
+      <module name="Spring-05-and" target="8" />
+      <module name="spring-06-and" target="8" />
+      <module name="spring-07-and" target="8" />
+      <module name="SpringMVC-01-test" target="8" />
+      <module name="SSM" target="8" />
+      <module name="SSM-01" target="8" />
+      <module name="SSM-02-test" target="8" />
+      <module name="webproject-02" target="15" />
+      <module name="webproject-03" target="15" />
+      <module name="webproject-04-validcode" target="15" />
+      <module name="webproject-05-sendRedirect" target="15" />
+      <module name="webproject-06-jsp" target="1.5" />
+      <module name="webproject-07-filter" target="1.5" />
+      <module name="webproject-08-jdbc" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBatis-01-test/MyBatis-01-test.iml" filepath="$PROJECT_DIR$/MyBatis-01-test/MyBatis-01-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatis-02-test/MyBatis-02-test.iml" filepath="$PROJECT_DIR$/MyBatis-02-test/MyBatis-02-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.iml" filepath="$PROJECT_DIR$/SSM/SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM-01/SSM-01.iml" filepath="$PROJECT_DIR$/SSM-01/SSM-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM-02-test/SSM-02-test.iml" filepath="$PROJECT_DIR$/SSM-02-test/SSM-02-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-01-test/Spring-01-test.iml" filepath="$PROJECT_DIR$/Spring-01-test/Spring-01-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-autowriter/Spring-02-autowriter.iml" filepath="$PROJECT_DIR$/Spring-02-autowriter/Spring-02-autowriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-03-annotation/Spring-03-annotation.iml" filepath="$PROJECT_DIR$/Spring-03-annotation/Spring-03-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-proxy/Spring-04-proxy.iml" filepath="$PROJECT_DIR$/Spring-04-proxy/Spring-04-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-and/Spring-05-and.iml" filepath="$PROJECT_DIR$/Spring-05-and/Spring-05-and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-01-test/SpringMVC-01-test.iml" filepath="$PROJECT_DIR$/SpringMVC-01-test/SpringMVC-01-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkmarks/checkmarks.iml" filepath="$PROJECT_DIR$/checkmarks/checkmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaweb.iml" filepath="$PROJECT_DIR$/.idea/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score/score.iml" filepath="$PROJECT_DIR$/score/score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-06-and/spring-06-and.iml" filepath="$PROJECT_DIR$/spring-06-and/spring-06-and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-07-and/spring-07-and.iml" filepath="$PROJECT_DIR$/spring-07-and/spring-07-and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-02/webproject-02.iml" filepath="$PROJECT_DIR$/webproject-02/webproject-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-03/webproject-03.iml" filepath="$PROJECT_DIR$/webproject-03/webproject-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-04-validcode/webproject-04-validcode.iml" filepath="$PROJECT_DIR$/webproject-04-validcode/webproject-04-validcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-05-sendRedirect/webproject-05-sendRedirect.iml" filepath="$PROJECT_DIR$/webproject-05-sendRedirect/webproject-05-sendRedirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-06-jsp/webproject-06-jsp/webproject-06-jsp.iml" filepath="$PROJECT_DIR$/webproject-06-jsp/webproject-06-jsp/webproject-06-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-07-filter/webproject-07-filter.iml" filepath="$PROJECT_DIR$/webproject-07-filter/webproject-07-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webproject-08-jdbc/webproject-08-jdbc.iml" filepath="$PROJECT_DIR$/webproject-08-jdbc/webproject-08-jdbc.iml" />
+    </modules>
+  </component>
+</project>

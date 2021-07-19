@@ -1,0 +1,22 @@
+# Project exclude paths
+/checkmarks/target/
+/MyBatis-01-test/target/
+/MyBatis-02-test/target/
+/out/
+/score/target/
+/Spring-01-test/target/
+/Spring-02-autowriter/target/
+/Spring-03-annotation/target/
+/Spring-04-proxy/target/
+/spring-06-and/target/
+/spring-07-and/target/
+/SpringMVC-01-test/target/
+/SSM/target/
+/SSM-01/target/
+/SSM-02-test/target/
+/webproject-02/target/
+/webproject-04-validcode/target/
+/webproject-05-sendRedirect/target/
+/webproject-06-jsp/webproject-06-jsp/target/
+/webproject-07-filter/target/
+/webproject-08-jdbc/target/

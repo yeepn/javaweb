@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yeep.pojo.mapper.UserDao">
+    <select id="getAllUser" resultType="com.yeep.pojo.User">
+        select * from users
+    </select>
+    <insert id="insertUser" parameterType="com.yeep.pojo.User">
+        insert into users(id,username,pwd) values (#{id},#{username},#{pwd})
+    </insert>
+    <delete id="deleteUser" parameterType="int">
+        delete from users where id=#{id}
+    </delete>
+    <update id="updateUser" parameterType="com.yeep.pojo.User">
+        update users
+        set username = #{username},pwd=#{pwd}
+        where id=#{id};
+    </update>
+    <select id="getUserByName" parameterType="map" resultType="com.yeep.pojo.User">
+        select * from users where username=#{username}
+    </select>
+</mapper>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.yeep.dao.UserMapper">
+    <select id="getAllUsers" resultType="user">
+        select * from users
+    </select>
+<select id="getUserByid" parameterType="integer" resultType="user">
+    select * from users where id=#{userid}
+</select>
+    <delete id="deleteUser" parameterType="user">
+        delete from users where id=#{userid}
+    </delete>
+    <update id="updateUser" parameterType="user">
+        update users
+        set username = #{username},pwd=#{pwd}
+        where id=#{userid};
+    </update>
+    <insert id="insertUser" parameterType="user">
+        insert into users(username,pwd) values #{username},#{pwd}
+    </insert>
+</mapper>
